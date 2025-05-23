@@ -447,6 +447,7 @@ C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\Aula
 C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AulaMaui.AssemblyInfoInputs.cache
 C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AulaMaui.AssemblyInfo.cs
 C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AulaMaui.csproj.CoreCompileInputs.cache
+C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AulaMaui.sourcelink.json
 C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AulaMaui.csproj.Up2Date
 C:\Users\aneli\OneDrive\Documentos\Estudos\Programacao\Mobile\Maui\Projetos\AulaMaui\AulaMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AulaMaui.dll

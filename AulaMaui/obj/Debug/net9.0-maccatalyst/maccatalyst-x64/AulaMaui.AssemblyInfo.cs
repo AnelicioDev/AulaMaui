@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulaMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4f6bdff6ce0ac19c21fea2fe561ef48627f26f3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulaMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulaMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
